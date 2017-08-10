@@ -1,0 +1,7 @@
+/home/perezl-lonso/Desktop/MyG4Template/build/CMakeFiles/install/strip.dir
+/home/perezl-lonso/Desktop/MyG4Template/build/CMakeFiles/edit_cache.dir
+/home/perezl-lonso/Desktop/MyG4Template/build/CMakeFiles/template.dir
+/home/perezl-lonso/Desktop/MyG4Template/build/CMakeFiles/rebuild_cache.dir
+/home/perezl-lonso/Desktop/MyG4Template/build/CMakeFiles/list_install_components.dir
+/home/perezl-lonso/Desktop/MyG4Template/build/CMakeFiles/install/local.dir
+/home/perezl-lonso/Desktop/MyG4Template/build/CMakeFiles/install.dir
